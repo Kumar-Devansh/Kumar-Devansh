@@ -5,7 +5,7 @@
   <i>DevOps Engineer • Automation • Cloud • Scalability</i>
 </p>
 
-<p align="center">
+<p>
 A DevOps Engineer passionate about automation, cloud infrastructure, and scalable systems.
 </p>
 
