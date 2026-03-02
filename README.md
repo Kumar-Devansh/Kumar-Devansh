@@ -10,15 +10,10 @@ A DevOps Engineer passionate about automation, cloud infrastructure, and scalabl
 </p>
 
 🔭 I’m currently working on cloud-native deployments using Docker, Kubernetes, and CI/CD pipelines  
-<br>
 👯 I’m looking to collaborate on DevOps automation, cloud infrastructure, and open-source projects  
-<br>
 🤝 I’m looking for help with advanced Kubernetes, monitoring, and production-grade cloud architecture  
-<br>
 🌱 I’m currently learning Kubernetes, AWS, Terraform, and DevSecOps best practices  
-<br>
 💬 Ask me about Linux, Docker, Kubernetes, CI/CD pipelines, and cloud deployments  
-<br>
 ⚡ Fun fact I automate everything to save time and reduce human errors 🚀
 
 ## 🌐 Socials:
