@@ -1,6 +1,30 @@
 # 💫 About Me:
-<br>                                                       Hi, I’m Devansh  <br>A DevOps Engineer passionate about automation, cloud infrastructure, and scalable systems.<br><br>🔭 I’m currently working on cloud-native deployments using Docker, Kubernetes, and CI/CD pipelines  <br><br>👯 I’m looking to collaborate on DevOps automation, cloud infrastructure, and open-source projects  <br><br>🤝 I’m looking for help with advanced Kubernetes, monitoring, and production-grade cloud architecture  <br><br>🌱 I’m currently learning Kubernetes, AWS, Terraform, and DevSecOps best practices  <br><br>💬 Ask me about Linux, Docker, Kubernetes, CI/CD pipelines, and cloud deployments  <br><br>⚡ Fun fact I automate everything to save time and reduce human errors 🚀
+<h2 align="center">Hi 👋, I’m Devansh</h2>
 
+<p align="center">
+  <i>DevOps Engineer • Automation • Cloud • Scalability</i>
+</p>
+
+<p align="center">
+A DevOps Engineer passionate about automation, cloud infrastructure, and scalable systems.
+</p>
+
+🔭 I’m currently working on cloud-native deployments using Docker, Kubernetes, and CI/CD pipelines  
+<br>
+
+👯 I’m looking to collaborate on DevOps automation, cloud infrastructure, and open-source projects  
+<br>
+
+🤝 I’m looking for help with advanced Kubernetes, monitoring, and production-grade cloud architecture  
+<br>
+
+🌱 I’m currently learning Kubernetes, AWS, Terraform, and DevSecOps best practices  
+<br>
+
+💬 Ask me about Linux, Docker, Kubernetes, CI/CD pipelines, and cloud deployments  
+<br>
+
+⚡ Fun fact I automate everything to save time and reduce human errors 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dev_upadhyay949?igsh=czM2NGxrZ3I3c2t3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-devansh-b2717b351?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Dev_892) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshup1312@gmail.com) 
