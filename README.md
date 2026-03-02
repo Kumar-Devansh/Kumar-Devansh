@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3 align="center">Hi 👋, I’m Devansh</h3>
+<h2 align="center">Hi 👋, I’m Devansh</h2>
 
 <p align="center">
   <i>DevOps Engineer • Automation • Cloud • Scalability</i>
